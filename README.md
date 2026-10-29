@@ -3,14 +3,6 @@
 > **An LLM-Based SQL Query Generation System with Automated Validation and Self-Correction**  
 > Full-Stack Web Application for Database Management Systems, Natural Language Processing, and Artificial Intelligence.
 
----
-
-## 👥 Team Division
-- **Member 1**: Research, Literature Survey, Problem Formulation & Documentation
-- **Member 2**: Database Architecture, SQLite Schema, FastAPI Services & Execution Safety
-- **Member 3 (Lead Integrator)**: React UI Dashboard, Self-Correction Timeline, Recharts Visualization & Pipeline Integration
-
----
 
 ## 🌟 Key Features
 
@@ -50,7 +42,6 @@
 
 ### Backend Setup (FastAPI + SQLite)
 
-For Member 2:
 ```bash
 cd backend
 pip install -r requirements.txt
